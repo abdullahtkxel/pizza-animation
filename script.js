@@ -131,7 +131,7 @@ document.addEventListener("DOMContentLoaded", () => {
         start: "top top",
         scrub: true,
         pin: true,
-        markers: true,
+        // markers: true,
       },
     })
     .to(".top .image-container", {
